@@ -13,3 +13,9 @@ My first GitHub Repo
 - white fang
 - harry potter
 - mice of men
+
+## Favorite Sports
+
+- college basketball
+- cylcing
+- swimming
